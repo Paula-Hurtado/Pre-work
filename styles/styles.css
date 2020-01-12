@@ -1,3 +1,18 @@
+.january{
+    color: rgb(0, 0, 0);
+    
+}
+.carousel{
+    width: 460px;
+    height: 460px;
+
+}
+.card{
+    color: black;
+}
+.school{
+    color: white;
+}
 a:hover{
     color: black;
 }
@@ -115,14 +130,37 @@ a, a:hover, a:focus {
 .Amatic-font{
     font-family: 'Amatic SC', cursive;
 }
-
-
-
 .greet{
     margin-top: 8px;
     margin-bottom: 8px;
 }
 
+.letra{
+    color: #343a40;
+}
+
+.icon{
+    color: white;
+    
+}
+
+.ghsot{
+    color: #343a40;
+}
+.space{
+    width: 40px;
+    height: 40px;
+}
+.right{
+    transform:rotate(180deg);
+    -ms-transform:rotate(180deg); 
+    -webkit-transform:rotate(180deg);
+}
+.left{
+    transform:rotate(90deg);
+    -ms-transform:rotate(90deg); 
+    -webkit-transform:rotate(90deg); 
+}
 
 
 
